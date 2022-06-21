@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "title": "Dasani",
+      "rating": 1,
+      "imageURL" : "https://www.dasani.com/content/dam/nagbrands/us/dasani/en/products/water/Dasani_20oz_wet.png"
+    },
+    {
+      "id": 2,
+      "title": "Aquafina",
+      "rating": 1,
+      "imageURL" : "https://images.heb.com/is/image/HEBGrocery/000026089?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+    },
+    
+    
+    {
+      "id": 5,
+      "title": "Life WTR",
+      "rating": 4,
+      "imageURL" : "https://www.kroger.com/product/images/large/front/0001200017163"
+    },
+    {
+      "id": 6,
+      "title": "Just Water",
+      "rating": 5,
+      "imageURL" : "http://cdn.shopify.com/s/files/1/1628/8781/products/PDP_spring_1L_F2_c03c6b10-dbea-4d95-99ee-ba68db746fd3_1024x1024.png?v=1621283564"
+    },
+    {
+      "id": 7,
+      "title": "Smart Water",
+      "rating": 5,
+      "imageURL" : "https://images.heb.com/is/image/HEBGrocery/000283169"
+    },
+    {
+      "id": 8,
+      "title": "Essentia",
+      "rating": 4,
+      "imageURL" : "https://m.media-amazon.com/images/I/51LKlk3sTNL._SL1500_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fiji",
+      "rating": 5,
+      "imageURL" : "https://cdn.shopify.com/s/files/1/0051/7262/5477/products/FW_2021_500ml_900x900_0aaf1681-6cec-4f2f-9692-80400f77e33d_grande.png?v=1622553119"
+    }
+  ]
